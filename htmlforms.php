@@ -1,5 +1,5 @@
 <html>
-<title> HTML forms </title> 
+<title> HTMLS forms </title> 
 <body>
 <?php include("index.php");
 ?>
